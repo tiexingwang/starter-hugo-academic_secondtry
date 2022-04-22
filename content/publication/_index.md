@@ -2,6 +2,10 @@
 title: Publications
 cms_exclude: true
 
+
+# set the active parameter to either true or false for each widget depending on if you wish to display it or not. 
+active: false
+
 # View.
 #   1 = List
 #   2 = Compact
