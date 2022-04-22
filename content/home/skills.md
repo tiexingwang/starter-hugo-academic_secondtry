@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
+# set the active parameter to either true or false for each widget depending on if you wish to display it or not. 
+active: false
+
 # This file represents a page section.
 headless: true
 
