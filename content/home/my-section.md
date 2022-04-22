@@ -4,7 +4,7 @@
 widget: blank
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 2
@@ -25,4 +25,4 @@ design:
     text_color_light: true
 ---
 
-Let's try it and love tuntun 
+Let's try it.
