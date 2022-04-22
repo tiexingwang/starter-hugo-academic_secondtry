@@ -5,6 +5,7 @@ widget: blank
 
 # This file represents a page section.
 headless: false
+
 active: false
 # Order that this section appears on the page.
 weight: 2
@@ -25,4 +26,4 @@ design:
     text_color_light: true
 ---
 
-Let's try it.
+Let's try it. Hello.
